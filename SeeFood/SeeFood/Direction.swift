@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+enum Direction {
+    case up, down
+}

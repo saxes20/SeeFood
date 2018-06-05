@@ -6,4 +6,10 @@
 //  Copyright © 2018 james. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+struct Constants {
+    struct DetailView {
+        static let startingHeight: CGFloat = 100
+    }
+}
